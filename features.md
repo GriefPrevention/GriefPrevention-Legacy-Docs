@@ -1,12 +1,15 @@
 ---
 layout: default
-title: Features
+title: Features+Addons
 nav_order: 2
 ---
 
 ### What is GriefPrevention?
 
 GriefPrevention is a Minecraft server plugin which stops grief before it starts automatically without any effort from administrators, and with very little (self service) effort from players. Solve all your grief problems with a single download, no database, and no configuration step (the default configuration is sane and will likely be all you need, but of course everything is configurable and fine-tuneable to your liking).
+
+{: .note}
+Addons can add new features to GriefPrevention! Check the [Addons category in the forum](https://github.com/GriefPrevention/GriefPrevention/discussions/categories/addons) for a small list of the many GriefPrevention addons you can install.
 
 #### Feature List
 
@@ -90,7 +93,7 @@ GriefPrevention is a Minecraft server plugin which stops grief before it starts 
     * Logs sign placements.
     * /SoftMute command to shut down chat trolls without them knowing they're beaten.
     * Abridged chat logs make reviewing what happened while you were away super-quick and easy.
-    * Automatically mutes new-to-server players who use racial or homophobic slurs.
+    * Automatically mutes new-to-server players who use common slurs.
 
 * PvP Protections.
     * When PvP is off, no setting fire or dumping lava near other players.
