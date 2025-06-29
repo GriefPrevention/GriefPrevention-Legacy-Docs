@@ -19,12 +19,9 @@ GriefPrevention Legacy is a Bukkit plugin, and therefore is compatible with the 
 
 ## What is GriefPrevention Legacy?
 
-GriefPrevention Legacy is a branch of GriefPrevention which will continue to faithfully preserve the old implementation of GriefPrevention's features, maintaining compatibility with older servers and older addons.
-In other words, it will eventually become the "older," but still supported, version of GriefPrevention, while newer major versions are actively developed.
+GriefPrevention Legacy is the "friendly" name of GriefPrevention version 16. GriefPrevention version 16 will still continue to receive primary support until GriefPrevention v20 is released.
 
-GriefPrevention Legacy includes all versions of GriefPrevention v16 and lower.
-
-GriefPrevention Legacy will still receive primary support until GriefPrevention v20 is released.
+Newer versions of GriefPrevention will be undergoing major changes which will break compatibility with older addons, and will likely require action from server administrators for refactored features. GriefPrevention Legacy exists for administrators who do not wish to "upgrade" to these newer versions of GriefPrevention due to these breaking changes; GriefPrevention Legacy will continue to faithfully preserve the old implementation of GriefPrevention's features, maintaining compatibility with older servers and older addons.
 
 ## Getting Started
 
